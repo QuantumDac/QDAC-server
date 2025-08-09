@@ -1,2 +1,0 @@
-# QDAC-server
-Qdac BLockchain
